@@ -25,4 +25,4 @@ To establish a data streaming architecture that ingests the Titanic dataset in r
 
 5. **Execute the consumer script or notebook to read and display streamed data:**
    - python kafka_consumer.py
-   - run Data-Streaming-Unit1.ipynb in jupyter
+   - run Data-Streaming.ipynb in jupyter
